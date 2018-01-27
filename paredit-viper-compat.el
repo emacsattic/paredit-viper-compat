@@ -6,6 +6,8 @@
 ;; Site: http://www.emacswiki.org/emacs/ParEditViperCompat
 ;; Status: Beta - not fully tested.
 
+;; License: BSD-3-clause
+
 ;;; Commentary:
 ;;
 ;; This mode allows paredit to work when viper is enabled.
